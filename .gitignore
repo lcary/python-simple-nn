@@ -1,0 +1,6 @@
+.idea/
+venv/
+__pycache__/
+out/
+mnist_data/mnist_train_60k.csv
+.DS_Store
